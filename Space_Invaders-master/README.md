@@ -21,7 +21,7 @@ the alien invasion is successful and the game ends. A special "mystery ship" wil
 screen and award bonus points if destroyed. The ship is partially protected by several stationary defense bunkers that are
 gradually destroyed by projectiles from the aliens and player.
 
-<img src="http://i.imgur.com/u2mss8o.png" width="360" height="300" />
+<img src="http://i.imgur.com/u2mss8o.png" width="360" height="300" />=
 <img src="http://i.imgur.com/mR81p5O.png" width="360" height="300"/>
 
 How To Play
