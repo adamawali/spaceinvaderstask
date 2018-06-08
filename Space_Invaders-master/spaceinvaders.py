@@ -376,8 +376,8 @@ class SpaceInvaders(object):
 	def create_text(self):
 		self.titleText = Text(FONT, 50, "FATHER DAVID", RED, 164, 155)
 		self.titleText2 = Text(FONT, 25, "GUCCI X SUPREME", BLUE, 201, 225)
-		self.gameOverText = Text(FONT, 50, "YOU'RE SHIT SON", RED, 250, 270)
-		self.nextRoundText = Text(FONT, 50, "LUCKY BITCH", RED, 240, 270)
+		self.gameOverText = Text(FONT, 50, "YOU'RE BAD SON", RED, 250, 270)
+		self.nextRoundText = Text(FONT, 50, "LUCKY FLITH", RED, 240, 270)
 		self.enemy1Text = Text(FONT, 25, "   =   POPPIN PETE 9 pts", GREEN, 368, 270)
 		self.enemy2Text = Text(FONT, 25, "   =  VENOM_75 999 pts", BLUE, 368, 320)
 		self.enemy3Text = Text(FONT, 25, "   =  HAWKOCXNT 99999 pts", PURPLE, 368, 370)
